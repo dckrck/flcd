@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666550133 source:/home/richard/Desktop/UBB_AN3/Semestru1/FLCD/lab2/Lab2_FINAL/Lab2/main.cpp
+	<iostream>
+	<string>
+
